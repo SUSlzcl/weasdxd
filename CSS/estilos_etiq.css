@@ -1,0 +1,64 @@
+/* Estilos para selector de etiquetas  */
+
+body {
+font-family: "Arial", "Segoe UI";
+background-color: #0078E8
+}
+
+header {
+background-color: #0222a0
+}
+
+nav {
+color: white;
+background-color: #0222a0
+}
+
+main {
+color: rgb(48, 36, 205);
+background-color: #0078E8
+}
+
+footer {
+color: #555555;
+font-size: 11pt;
+background-color: #0078E8
+}
+
+h1 {
+color: darkviolet
+}
+
+table {
+    border: 0px solid;
+    width: 900px;
+    margin: 0 auto;
+    background-color: #FFFFFF
+}
+
+
+/* Estilos para selector de ID  */
+
+#tabla_principal {
+    border: 2px solid;
+    width: 900px;
+    margin: 0 auto;
+    background-color: #FFFFFF
+}
+
+
+/* Estilos para selector de clases  */
+
+.tabla_menu {
+    border: 0px solid;
+    width: 900px;
+    margin: 0 auto;
+    background-color: #DEB887
+}
+
+.tabla_pie {
+    border: 0px solid;
+    width: 900px;
+    margin: 0 auto;
+    background-color: #EEEEEE
+}
